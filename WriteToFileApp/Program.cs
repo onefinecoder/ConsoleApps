@@ -13,7 +13,7 @@ namespace WriteToFileApp
         {
             using (StreamWriter outputfile = new StreamWriter("log.txt"))
             {
-                outputfile.WriteLine("Hi this is BranMuffinGamer");
+                outputfile.WriteLine("Hi this is Trumpy");
             }
         }
     }
