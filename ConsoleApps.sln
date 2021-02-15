@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileLoop", "DoWhileLoop\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.csproj", "{BB6EF375-3094-4A57-8A3D-7987E5830528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchesAndLoops", "BranchesAndLoops\BranchesAndLoops.csproj", "{D38A1B80-3206-4E98-9390-E723582B8D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BranchesAndLoops", "BranchesAndLoops\BranchesAndLoops.csproj", "{D38A1B80-3206-4E98-9390-E723582B8D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsAndCollections", "ListsAndCollections\ListsAndCollections.csproj", "{333F1823-DC2A-4181-A0B1-27350C9A3231}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{D38A1B80-3206-4E98-9390-E723582B8D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D38A1B80-3206-4E98-9390-E723582B8D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D38A1B80-3206-4E98-9390-E723582B8D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333F1823-DC2A-4181-A0B1-27350C9A3231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333F1823-DC2A-4181-A0B1-27350C9A3231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333F1823-DC2A-4181-A0B1-27350C9A3231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333F1823-DC2A-4181-A0B1-27350C9A3231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
