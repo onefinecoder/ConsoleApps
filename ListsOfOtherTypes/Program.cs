@@ -14,8 +14,8 @@ namespace ListsOfOtherTypes
 
             //fibonacciNumbers.Add(previous + previous2);
 
-            foreach (var item in fibonacciNumbers)
-                Console.WriteLine(item);
+            //foreach (var item in fibonacciNumbers)
+                //Console.WriteLine(item);
 
             while (fibonacciNumbers.Count < 20)
             {
@@ -26,9 +26,11 @@ namespace ListsOfOtherTypes
 
                 fibonacciNumbers.Add(previous + previous2);
 
-                foreach (var item in fibonacciNumbers)
-                    Console.WriteLine(item);
+              
             }
+
+            foreach (var item in fibonacciNumbers)
+                Console.WriteLine(item);
 
             //Try and write the code to generate the first 20 numbers in the sequence. (As a hint, the 20th Fibonacci number is 6765.)
         }
